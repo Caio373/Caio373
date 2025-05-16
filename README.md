@@ -40,10 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Caio373/Caio373/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JyaXQ4dXM5Z2RzZ21uc3E1dnlsdzN0eDBteWl6ZmZ1M252a2tmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUdtR10ZsxlFC/giphy.gif"  />
 </div>
