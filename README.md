@@ -1,57 +1,37 @@
-<h2 align="left">Olá, eu sou o Caio Fagundes Mendonça Oliveira 👋</h2>
+# Olá, eu sou o Caio Fagundes 👋
 
-###
+Estudante de **Bacharelado em Matemática na UFMS** e Desenvolvedor de Sistemas focado em criar soluções eficientes e com design limpo.
 
-<p align="left">Sou Analista e Desenvolvedor de Sistemas, apaixonado por criar soluções eficientes e inovadoras.<br>Atualmente, tenho como objetivo ingressar na Engenharia de Software na UFMS para expandir ainda mais meus conhecimentos e habilidades.</p>
+---
 
-###
+### 🚀 Sobre mim
 
-<p align="left">🚀 Sempre aberto a colaborar em projetos, aprender novas tecnologias e contribuir para a comunidade de código aberto.</p>
+- 🎓 Atualmente cursando Matemática na **UFMS** (Universidade Federal de Mato Grosso do Sul).
+- 💻 Desenvolvedor Full-stack com experiência em **React, Node.js e Tailwind CSS**.
+- 🎨 Entusiasta de **UI/UX Design**, utilizando **Figma** para prototipação.
+- 🕹️ Participante da **Global Game Jam 2026**, contribuindo no projeto *HARVEST CLASH*.
+- 📍 Baseado em Campo Grande, MS.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio373&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio373&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🛠️ Tecnologias e Ferramentas
 
-###
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | React, JavaScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, PHP |
+| **Outros** | Python, Arduino, Figma, pnpm |
 
-<h3 align="left">💻 Tecnologias e ferramentas:</h3>
+---
 
-###
+### 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-</div>
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=Caio373&show_icons=true&theme=dark&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio373&layout=compact&theme=dark&hide_border=true)
 
-###
+---
 
-<h4 align="left">📫 Vamos nos conectar?</h4>
+### 📫 Vamos nos conectar?
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/caio-fagundes-mendon%C3%A7a-oliveira-81838629a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fagundes-mendonca/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fagundesc373@gmail.com)
