@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou o Caio Fagundes Mendonça Oliveira </h2>
+<h2 align="left">Olá, eu sou o Caio Fagundes Mendonça Oliveira 👋</h2>
 
 ###
 
@@ -16,10 +16,12 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio373&show_icons=true&theme=dark&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio373&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Linguagens" />
-</p>
+<div align="center">
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Caio373&show_icons=true&theme=dark&hide_border=true)](https://github.com/Caio373)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs?username=Caio373&layout=compact&langs_count=5&theme=dark&hide_border=true)](https://github.com/Caio373)
+
+</div>
 
 ###
 
